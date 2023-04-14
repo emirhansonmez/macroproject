@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYKolRjt3CmxA5my5OHjvo8/hg8eJg7ArLf18x3pbWqpU1xLbemkdMEIPCg81b0nvrL5Vdg07xA6JzKMah50nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emirh\\Desktop\\bionluk\\macroProject\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emirh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

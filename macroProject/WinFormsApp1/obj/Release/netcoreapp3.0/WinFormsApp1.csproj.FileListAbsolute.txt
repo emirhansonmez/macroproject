@@ -1,0 +1,15 @@
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\bin\Release\netcoreapp3.0\Hesap Makinesi.exe
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\bin\Release\netcoreapp3.0\Hesap Makinesi.deps.json
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\bin\Release\netcoreapp3.0\Hesap Makinesi.runtimeconfig.json
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\bin\Release\netcoreapp3.0\Hesap Makinesi.runtimeconfig.dev.json
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\bin\Release\netcoreapp3.0\Hesap Makinesi.dll
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\bin\Release\netcoreapp3.0\Hesap Makinesi.pdb
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.Form1.resources
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.AssemblyInfo.cs
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\Hesap Makinesi.dll
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\Hesap Makinesi.pdb
+C:\Users\emirh\Desktop\bionluk\macroProject\WinFormsApp1\obj\Release\netcoreapp3.0\WinFormsApp1.genruntimeconfig.cache
